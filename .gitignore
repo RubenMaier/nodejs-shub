@@ -12,6 +12,8 @@ yarn.lock
 .history
 # VIM backup files
 *~
+# specific
+dist
 # others
 *.dll
 *.exe

@@ -2,8 +2,9 @@
   "name": "nodejs-shub",
   "version": "1.0.0",
   "description": "Simple and flexible module to work with de Scrapinghub API with Node.js and derivatives.",
-  "main": "./lib index.js",
-  "author": "Ruben Maier Enzler",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Ruben Maier Enzler (rubenmaierenzler@gmail.com)",
   "license": "MIT",
   "scripts": {
     "prepublish": "npm run build",
