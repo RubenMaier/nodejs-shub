@@ -1,6 +1,6 @@
 {
   "name": "nodejs-shub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple and flexible module to work with de Scrapinghub API with Node.js and derivatives.",
   "main": "./lib index.js",
   "author": "Ruben Maier Enzler",
