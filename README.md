@@ -1,6 +1,6 @@
 <h1 align="center">NodeJS Shub</h1>
 <p align="center">
-    <img src="./logo.PNG">
+    <img src="https://raw.githubusercontent.com/RubenMaier/nodejs-shub/master/logo.png">
 </p>
 
 Simple and flexible module to work with de Scrapinghub API with Node.js and derivatives.
