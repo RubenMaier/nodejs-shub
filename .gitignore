@@ -1,0 +1,31 @@
+
+# npm
+node_modules
+package-lock.json
+npm-debug.log
+# yarn
+yarn.lock
+# Visual Studio Code
+.settings/launch.json
+.vs
+.vscode
+.history
+# VIM backup files
+*~
+# others
+*.dll
+*.exe
+*.cmd
+*.pdb
+*.suo
+*.js
+*.user
+*.cache
+*.cs
+*.sln
+*.csproj
+*.map
+*.swp
+*.code-workspace
+*.log
+.DS_Store

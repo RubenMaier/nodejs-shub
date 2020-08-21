@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-shub",
+  "version": "1.0.0",
+  "description": "Simple and flexible module to work with de Scrapinghub API with Node.js and derivatives.",
+  "main": "./lib index.js",
+  "author": "Ruben Maier Enzler",
+  "license": "MIT",
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "keywords": [
+    "shub",
+    "scrapy",
+    "scrapinghub",
+    "node",
+    "nodejs",
+    "node.js",
+    "api"
+  ],
+  "devDependencies": {
+    "@types/node": "^14.6.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "qs": "^6.9.4"
+  }
+}
